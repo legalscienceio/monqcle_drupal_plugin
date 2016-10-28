@@ -1,0 +1,12 @@
+monqcle-plugin:
+  version: 1.x
+  css:
+    theme:
+      monqcle_plugin/build/monqcle.css: {}
+  js:
+    monqcle_plugin/build/monq.js: {}
+    js/plugin.js: {}
+  dependencies:
+    - core/jquery
+    
+ 

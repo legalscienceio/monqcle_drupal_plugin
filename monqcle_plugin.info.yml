@@ -1,0 +1,11 @@
+name: MonQcle Plugin 
+description: A page module that interacts with MonQcle.com. 
+package: MonQcle
+type: module
+core: 8.x
+
+  
+  
+  
+  
+  

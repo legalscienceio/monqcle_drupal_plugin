@@ -1,0 +1,7 @@
+monqcle_plugin.content:
+  path: '/monqcle'
+  defaults:
+    _controller: '\Drupal\monqcle_plugin\Controller\MonqcleController::content'
+    _title: 'MonQcle Plugin'
+  requirements:
+    _permission: 'access content'
