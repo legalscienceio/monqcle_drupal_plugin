@@ -2,6 +2,7 @@
 
 Configuration options:
 
+```javascript
 monqcle = new MONQCLE({
        api_key: '55bf7b0bc304745f19334221',
        username: 'Guest',
@@ -18,3 +19,4 @@ monqcle = new MONQCLE({
        
        },
 })
+```
