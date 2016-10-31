@@ -7,7 +7,3 @@ function monqcle_plugin_theme($existing, $type, $theme, $path) {
     ),
   );
 }
-
-function monqcle_plugin_page_attachments(array &$page) {
-  $page['#attached']['library'][] = 'monqcle_plugin/monqcle-plugin';
-}
